@@ -1,3 +1,25 @@
-body {
+html {
   text-align: center;
+  font-family: helvetica;
+  background-color: green;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.list {
+  font-size: 18px;
+  color: white;
+}
+#about {
+  font-size: 32px;
+  font-weight: bold;
+}
+.content {
+  font-size: 23px;
+  font-weight: bold;
+}
+.detail {
+  font-size: 14px;
 }
