@@ -1,7 +1,9 @@
 html {
   text-align: center;
   font-family: helvetica;
-  background-color: green;
+}
+header {
+  background-image: url(../images/the-flatiron-building.png);
 }
 h1 {
   font-size: 70px;
@@ -11,6 +13,9 @@ h1 {
 .list {
   font-size: 18px;
   color: white;
+}
+ul {
+  list-style-type: none;
 }
 #about {
   font-size: 32px;
@@ -22,4 +27,16 @@ h1 {
 }
 .detail {
   font-size: 14px;
+}
+#york {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
+.contact {
+  font-size: 12px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
